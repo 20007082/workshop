@@ -1,1 +1,7 @@
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_
+
+Nodig:
+Arduino IDE (https://www.arduino.cc/en/software)
+
+Vrijblijvend:
+Notepad++ (https://notepad-plus-plus.org/downloads/v8.4.7/)
